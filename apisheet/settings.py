@@ -76,8 +76,8 @@ LOGIN_URL = 'login'
 LOGIN_REDIRECT_URL = 'home'
 # Database
 
-SOCIAL_AUTH_GOOGLE_OAUTH2_KEY ='432079869755-2smr2u6kpndgbqn8g3eov825q8o644ju.apps.googleusercontent.com'  #Paste CLient Key
-SOCIAL_AUTH_GOOGLE_OAUTH2_SECRET = '_qP5Vyrf8pKE92ymzs0-002Y' #Paste Secret Key
+SOCIAL_AUTH_GOOGLE_OAUTH2_KEY =''  #Paste CLient Key
+SOCIAL_AUTH_GOOGLE_OAUTH2_SECRET = '' #Paste Secret Key
 
 # https://docs.djangoproject.com/en/2.0/ref/settings/#databases
 
